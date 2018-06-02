@@ -3,11 +3,10 @@
 刺激战场GG脚本 
 本人最近很忙 隔三差五更新
 作者QQ:1039227140
+您的捐赠 是对我的支持 https://github.com/jia110/Stimulate-the-battlefield/blob/master/123.png
 禁止任何非法销售 仅用于开源学习研究
 我本意不是破坏游戏平衡  希望官方尽快修复，创造一个绿色良好的游戏环境
 github:https://github.com/jia110/
-您的捐赠 是对我的支持
-![image](https://github.com/jia110/Stimulate-the-battlefield/blob/master/123.png)
 
 
 Solemn hint: Recently, someone has stolen a dog and a dog.
@@ -19,3 +18,4 @@ No illegal sale is allowed for open source learning only.
 My intention is not to destroy the game balance, I hope the official repair as soon as possible, create a green and good game environment.
 Github:https://github.com/jia110/
 
+Your donation is for my support https://github.com/jia110/Stimulate-the-battlefield/blob/master/123.png
