@@ -6,6 +6,8 @@
 禁止任何非法销售 仅用于开源学习研究
 我本意不是破坏游戏平衡  希望官方尽快修复，创造一个绿色良好的游戏环境
 github:https://github.com/jia110/
+您的捐赠 是对我的支持
+![image](https://github.com/jia110/Stimulate-the-battlefield/blob/master/123.png)
 
 
 Solemn hint: Recently, someone has stolen a dog and a dog.
