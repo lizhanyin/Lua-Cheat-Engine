@@ -1,4 +1,5 @@
 捐赠我 加我  进福利群 优先内部群
+由于存在各种不稳定性 不保证10年内都更新
 您的捐赠 是对我的支持 https://github.com/jia110/Stimulate-the-battlefield/blob/master/123.png
 免费版 3天内更新 所有免费版无任何售后服务
 作者QQ:1039227140
