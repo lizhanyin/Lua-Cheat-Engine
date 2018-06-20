@@ -1,4 +1,4 @@
-mima='10369227140';
+mima='1039227140';
 
 v_value=gg.prompt({'（百度6.20更新 首发github https://github.com/jia110/Stimulate-the-battlefield)'},{[1]=0},{[1]='number'});
 
