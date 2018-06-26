@@ -1,0 +1,5 @@
+﻿gg.clearResults()
+gg.searchNumber('-0.04000080004', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(500)
+print('Replaced: ', gg.editAll('-1', gg.TYPE_FLOAT))
+gg.toast('开启成功,百度先生QQ1039227140')
