@@ -37,7 +37,7 @@ menu1 = gg.choice({
         "m4射速",
         "98k瞬击",
         "范围自瞄",
-        "退出脚本"},nil,"百度提示:此脚本为百度6.28稳定变态多功能脚本。百度永久更新https://github.com/jia110/Stimulate-the-battlefield，祝你游戏愉快，更多资源辅助请百度搜索知名分享吧www.zmfx8.com")
+        "退出脚本"},nil,"百度提示:此脚本为百度6.28稳定变态多功能脚本。百度永久更新https://github.com/jia110/Stimulate-the-battlefield，祝你游戏愉快")
 if menu1 == 1 then a() end
 
 if menu1 == 2 then b() end
